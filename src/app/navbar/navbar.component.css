@@ -13,13 +13,19 @@ a{
 }
 .navbar-nav{
     margin: auto;
+
+
 }
 .navbar-brand{
-    width: 30%;
+    width: 10%;
+    margin-left: 5%;
 }
 img{
-    width: 30%;
+    width: 10vw;
 }
 .nav-link:hover{
     color: #c2bebe;
+}
+.navbar-nav{
+    width: 20%;
 }
